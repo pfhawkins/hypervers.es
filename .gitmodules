@@ -1,0 +1,3 @@
+[submodule "themes/hugo-hyperverses-theme"]
+	path = themes/hugo-hyperverses-theme
+	url = git@github.com:pfhawkins/hugo-hyperverses-theme.git
