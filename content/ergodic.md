@@ -1,6 +1,6 @@
 +++
 date = "2013-12-14"
-tags = "ergodic"
+tags = ["ergodic"]
 title = "Complexity"
 
 +++
