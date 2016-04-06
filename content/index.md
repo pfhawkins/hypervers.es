@@ -1,7 +1,7 @@
 +++
 date = "2013-12-14"
 tags = ["root", "index", "prologue", "meta"]
-title = "/"
+title = "Hyperverses"
 
 +++
 
