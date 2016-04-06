@@ -1,3 +1,8 @@
 baseurl = "http://hypervers.es"
 languageCode = "en-us"
 title = "HYPERVERSES"
+theme = "hugo-hyperverses-theme"
+uglyurls = true
+
+[author]
+      name = "P.F. Hawkins"
