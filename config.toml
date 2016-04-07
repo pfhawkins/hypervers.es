@@ -5,4 +5,7 @@ theme = "hugo-hyperverses-theme"
 uglyurls = true
 
 [author]
-      name = "P.F. Hawkins"
+  name = "P.F. Hawkins"
+
+[params]
+  startyear = "2012"
